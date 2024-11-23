@@ -1,6 +1,6 @@
-# ChatGPT镜像网站 ｜ 无需翻墙，无限使用ChatGPT-4o和o1-preview【2024/11/23】
+# ChatGPT镜像网站 ｜ 无需翻墙，无限使用ChatGPT-4o和o1-preview【2024/11/24】
 
-> 更新时间：2024/11/23 <br />
+> 更新时间：2024/11/24 <br />
 > 作者：chatgpt-mirrors
 
 **国内直接能用的 ChatGPT镜像网站！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview** <br />
